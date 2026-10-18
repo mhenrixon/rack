@@ -1,0 +1,21 @@
+lib/rack/mock_request.rb
+  s_4786a62cd35147::t_cf538be5ef0de1 86-90,92
+test/spec_mock_request.rb
+  s_4786a62cd35147::t_3f6e672cdd2166 318-325
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5b922a94df71930c9b9af5d8c84af83bc2d5d3dd",
+  "prompts": {},
+  "sessions": {
+    "s_4786a62cd35147": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d1e58604-bb1b-456c-ace0-8fe7f151dae8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "mhenrixon <mikael@mhenrixon.com>"
+    }
+  }
+}
